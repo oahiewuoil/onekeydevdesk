@@ -31,7 +31,7 @@ export FORCENETCFGSTR=''                        # sometimes gateway and defroute
                                                 # example: NAME:myvps,IPv4:10.211.55.105,CIDR:24,MAC:001C42171017,MASK:255.255.255.0, 
                                                 # GATE:10.211.55.1,STATICROUTE:default,DNS1:8.8.8.8,DNS2:1.1.1.1
 
-export autoDEBMIRROR0='https://gitee.com/oahiewuoil/onekeydevdesk/raw/master'
+export autoDEBMIRROR0='https://github.com/oahiewuoil/onekeydevdesk/raw/master'
 export autoDEBMIRROR1='https://github.com/oahiewuoil/onekeydevdesk/raw/master'
 export FORCEMIRROR=''                           # force apply a fixed mirror/targetddurl selection to force override autoselectdebmirror results based on -t -m args given
 # export autoIMGMIRROR1=''                      # currently we apply the same mirror for deb and targetimg
